@@ -1,0 +1,35 @@
+==================== FRONTEND ================
+1 - REACT FRAMEWORK
+2 - REACT-VITE
+3 - REACT-ROUTER-DOM
+4 - AXIOS
+5 - REACT-TOSTIFY
+6 - REACT-ICONS
+7 - REACT-SWEETALERT
+8 - FORM INPUT ER JONNO CLEAVE.JS
+9 - REACT-CHART
+10 - EXEL NIYE KAJ KORLE EXEL ER PACKAGE ASE REACT-EXEL FILE
+11 - REACT CODE INPUT
+12 - EXEL THEKE EXPORT - EXPORT-FORM-JSON
+13 - REACT HTML PARSER
+14 - REACT HTML TO IMAGE
+15 - REACT TOOLTIP
+16 - REACT-WINDOW
+==================== BACKEND ================
+body-parser
+cookie-parser
+cors
+dotenv
+express
+express-mongo-sanitize
+express-rate-limit
+helmet
+hpp
+jsonwebtoken
+mongoose
+multer
+mysql
+nodemon
+validator
+xss-clean
+mongodb
